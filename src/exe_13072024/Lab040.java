@@ -4,7 +4,7 @@ public class Lab040 {
     public static void main(String[] args) {
 
         int age = 65; // unary plus
-        System.out.println(age + num);
+        System.out.println(age );
 
 
     }
